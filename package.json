@@ -38,9 +38,11 @@
     "disqus"
   ],
   "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.8.0",
     "bluebird": "^3.7.2",
     "classnames": "^2.2.6",
     "codecov": "^3.7.2",
+    "dot-prop": "^5.2.0",
     "gatsby": "^2.24.7",
     "gatsby-link": "^2.4.13",
     "gatsby-plugin-catch-links": "^2.3.11",
@@ -95,7 +97,7 @@
     "babel-preset-gatsby": "0.5.2",
     "browserslist": "4.13.0",
     "concurrently": "5.2.0",
-    "eslint": "7.5.0",
+    "eslint": "^7.5.0",
     "eslint-config-airbnb-base": "14.2.0",
     "eslint-plugin-import": "2.22.0",
     "eslint-plugin-jest": "23.18.0",
