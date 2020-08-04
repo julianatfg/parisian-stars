@@ -1,18 +1,18 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://hardcandy.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'hard candy 🍭🦄',
+  subtitle: 'and she’s hooked to the silver screen 👩🏻‍🎤',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 3,
   googleAnalyticsId: 'UA-73379983-2',
-  useKatex: false,
+  useKatex: true,
   menu: [
     {
-      label: 'Articles',
+      label: 'Posts',
       path: '/'
     },
     {
@@ -25,9 +25,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Juliana Goulart',
+    photo: '/pic_jules.png',
+    bio: 'and she’s hooked to the silver screen 👩🏻‍🎤',
     contacts: {
       email: 'jufilhote@id.uff.br',
       facebook: '',
@@ -36,7 +36,7 @@ module.exports = {
       github: 'julianatfg',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: '',
       instagram: 'sublondon',
       line: '',
       gitlab: '',
