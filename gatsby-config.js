@@ -102,6 +102,12 @@ module.exports = {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
+          // accessible emoji
+          'gatsby-remark-a11y-emoji',
+        ],
+      },
+      options: {
+        plugins: [
           'gatsby-remark-relative-images',
           {
             resolve: 'gatsby-remark-katex',
